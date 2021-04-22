@@ -36,10 +36,10 @@ main:
 docs:
   - title: OOP
     children:
-      - title: "SOLID"
+      - title: "객체지향설계원칙"
         url: /docs/solid/
-  #     - title: "Structure"
-  #       url: /docs/structure/
+      - title: "위대한 소프트웨어"
+        url: /docs/great-software/
   #     - title: "Installation"
   #       url: /docs/installation/
   #     - title: "Upgrading"
