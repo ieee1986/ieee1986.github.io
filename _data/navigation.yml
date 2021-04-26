@@ -40,6 +40,8 @@ docs:
         url: /docs/solid/
       - title: "잘 설계된 프로그램이 세상을 뒤흔든다"
         url: /docs/well-designed-program/
+      - title: "요구 사항 수집"
+        url: /docs/collection-of-requirements/
   #     - title: "Installation"
   #       url: /docs/installation/
   #     - title: "Upgrading"
