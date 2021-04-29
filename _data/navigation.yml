@@ -20,7 +20,7 @@ foo:
 
 # main links  메인 링크
 main:
-  - title: "OOP"
+  - title: "OOA&D"
     url: /docs/solid/
   # - title: "About"
   #   url: /about/
@@ -34,7 +34,7 @@ main:
 
 # documentation links (nav)
 docs:
-  - title: OOP
+  - title: OOA&D
     children:
       - title: "객체지향설계원칙"
         url: /docs/solid/
