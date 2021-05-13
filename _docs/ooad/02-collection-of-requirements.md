@@ -1,6 +1,6 @@
 ---
 title: "요구 사항 수집"
-permalink: /docs/collection-of-requirements/
+permalink: /docs/ooad/collection-of-requirements/
 excerpt: "Object-Oriented Analysis & Design"
 last_modified_at: 2021-04-26
 redirect_from:

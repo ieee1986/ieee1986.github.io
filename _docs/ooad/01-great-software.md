@@ -1,6 +1,6 @@
 ---
 title: "잘 설계된 프로그램이 세상을 뒤흔든다."
-permalink: /docs/well-designed-program/
+permalink: /docs/ooad/well-designed-program/
 excerpt: "Object-Oriented Analysis & Design"
 last_modified_at: 2021-04-22
 redirect_from:

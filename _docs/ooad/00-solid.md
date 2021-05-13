@@ -1,6 +1,6 @@
 ---
 title: "SOLID"
-permalink: /docs/solid/
+permalink: /docs/ooad/solid/
 excerpt: "ko.wikipedia.org"
 last_modified_at: 2021-04-20
 redirect_from:

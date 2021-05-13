@@ -21,7 +21,9 @@ foo:
 # main links  메인 링크
 main:
   - title: "OOA&D"
-    url: /docs/solid/
+    url: /docs/ooad/solid/
+  - title: "Linux"
+    url: /docs/linux/directory-structor/
   # - title: "About"
   #   url: /about/
   # - title: "Sample Posts"
@@ -37,19 +39,19 @@ docs:
   - title: OOA&D
     children:
       - title: "객체지향설계원칙"
-        url: /docs/solid/
+        url: /docs/ooad/solid/
       - title: "잘 설계된 프로그램이 세상을 뒤흔든다"
-        url: /docs/well-designed-program/
+        url: /docs/ooad/well-designed-program/
       - title: "요구 사항 수집"
-        url: /docs/collection-of-requirements/
+        url: /docs/ooad/collection-of-requirements/
   #     - title: "Installation"
   #       url: /docs/installation/
   #     - title: "Upgrading"
   #       url: /docs/upgrading/
-  # - title: Customization
-  #   children:
-  #     - title: "Configuration"
-  #       url: /docs/configuration/
+  - title: Linux
+    children:
+      - title: "리눅스 디렉토리 구조"
+        url: /docs/linux/directory-structor/
   #     - title: "Overriding Theme Defaults"
   #       url: /docs/overriding-theme-defaults/
   #     - title: "Navigation"
